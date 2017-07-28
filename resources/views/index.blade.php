@@ -21,8 +21,8 @@
                                     <div class="tp-caption tp-resizeme rs-parallaxlevel-1" id="slide-1-layer-1" data-x="center" data-hoffset="" data-y="center" data-voffset="-120" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:2000;e:Power3.easeInOut;" data-transform_out="opacity:0;s:300;s:300;" data-start="500" data-responsive_offset="on" style="z-index: 5;"><img src="content/investment/images/home_investment_slider_logo.png" alt="" width="267" height="267" data-ww="267px" data-hh="267px" data-no-retina>
                                     </div>
                                     <div class="tp-caption mfnrs_investment_large_light tp-resizeme rs-parallaxlevel-2" id="slide-1-layer-2" data-x="center" data-hoffset="" data-y="center" data-voffset="120" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;s:300;" data-mask_in="x:0px;y:[100%];" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; white-space: nowrap;">
-                                        We are BeInvestment
-                                        <br> We help your money grow faster
+                                        Quick Loan. Quality Advice.
+                                        <br> Welcome To loan365.<br> Designing Strategy & Structure To Align With Your Goal.
                                     </div>
                                     <div class="tp-caption Fashion-BigDisplay tp-resizeme rs-parallaxlevel-1 newuser" onclick="userclick('newuser')" id="slide-1-layer-6" data-x="left" data-hoffset="" data-y="center" data-voffset="240" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:0;e:Linear.easeNone;" data-style_hover="c:rgba(255, 255, 255, 1.00);bg:rgba(1, 10, 24, 1.00);" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;s:300;" data-mask_in="x:0px;y:[100%];" data-start="500" data-splitin="none" data-splitout="none" data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"#"}]' data-responsive_offset="on" style="z-index: 7; white-space: nowrap; font-size: 20px; line-height: 20px; font-weight: 700; color: rgba(255, 255, 255, 1.00);text-align:center;background-color:rgba(3, 20, 48, 1.00);padding:14px 30px 14px 30px;cursor:pointer;">
                                         Newmortgage
@@ -60,7 +60,8 @@
                                     <!-- One Full Row-->
                                     <div class="column mcb-column one column_column">
                                         <div class="column_attr align_center" style=" background-color:#fff; padding:40px 30px 25px;">
-                                            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad mini.</h3>
+                                            <h3>Innovation through Technology</h3>
+                                            <h8>Loan365 is an Australian owned business that was created to provide a great experience for all your lending requirements. We have big plans going forward, innovate through technology but still have human touch. We are always available to chat, talk, message or video call anytime you want.All our lending strategist are active property investors hence rest assured all your lending requirements will be thoroughly analysed before any options are discussed and finalised.We are a small business at heart with a real focus on a great customer outcome.Thank you for your support.</h8>
                                         </div>
                                     </div>
                                     <!-- One Third (1/3) Column -->
@@ -146,7 +147,7 @@
                                     <div class="column mcb-column one column_slider_plugin ">
                                         <!-- Revolution slider area-->
                                         <div class="mfn-main-slider">
-                                            <div id="rev_slider_2_4_wrapper" class="rev_slider_wrapper fullwidthbanner-container" style="margin:0px auto;background-color:rgb(85,235,221);padding:0px;margin-top:0px;margin-bottom:0px;background-image:url(content/investment/images/home_investment_slider_content.jpg);background-repeat:no-repeat;background-size:normal;background-position:center center;">
+                                            <div id="rev_slider_2_4_wrapper" class="rev_slider_wrapper fullwidthbanner-container" style="margin:0px auto;background-color:rgb(85,235,221);padding:0px;margin-top:0px;margin-bottom:0px;background-image:url(content/investment/images/home_investment_slider_content.jpg);background-repeat:no-repeat;background-size:normal;background-position:center center; background: #55ebdd;">
                                                 <div id="rev_slider_2_4" class="rev_slider fullwidthabanner" data-version="5.0.9">
                                                     <ul>
                                                         <li data-index="rs-2" data-transition="fade" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="" data-rotate="0" data-saveperformance="off" data-title="Slide" data-description="">
@@ -219,7 +220,7 @@
                                     </div>
                                     <!-- One Third (1/3) Column -->
                                     <div class="column mcb-column one-third column_column">
-                                        <div class="column_attr align_center" style=" background: #55ebdd;; padding:25px 20px 10px;">
+                                        <div class="column_attr align_center" style=" background: #55ebdd; padding:25px 20px 10px;">
                                             <p style="font-size: 55px; line-height: 50px; margin-bottom: 5px; color: #eaddbd;">
                                                 3
                                             </p>
@@ -238,27 +239,27 @@
                                                 <li>
                                                     <div class="bq_wrapper">
                                                         <blockquote>
-                                                            Duis finibus sed nulla at vehicula. Etiam vel ornare sem. Phasellus maximus sed. In orci justo, mollis nec lacinia sed, mattis.
+                                                           <h8>“I have referred numerous clients to Loan365. They provide a truly excellent service - far superior to other mortgage consultants I have experience with in the past. ”</h8>
                                                         </blockquote>
                                                     </div>
                                                     <div class="hr_dots hrmargin_b_10">
                                                         <span></span><span></span><span></span>
                                                     </div>
                                                     <div class="author">
-                                                        <h5>- Gordon Dale</h5><span class="company"></span>
+                                                        <h5>- Catherine Cashmore</h5><span class="company"></span>
                                                     </div>
                                                 </li>
                                                 <li>
                                                     <div class="bq_wrapper">
                                                         <blockquote>
-                                                            Nunc sodales nulla ac massa condimentum posuere. Aenean dapibus et libero metus. Curabitur convallis lectus.
+                                                            “Raj at Loan365 is an experienced and knowledgable finance consultant, who is extremely client focused. It's a pleasure to work with Raj as he is diligent, professional and always goes above and beyond for his clients.”
                                                         </blockquote>
                                                     </div>
                                                     <div class="hr_dots hrmargin_b_10">
                                                         <span></span><span></span><span></span>
                                                     </div>
                                                     <div class="author">
-                                                        <h5>- Joan Avina</h5><span class="company"></span>
+                                                        <h5>- Freya Southwell</h5><span class="company"></span>
                                                     </div>
                                                 </li>
                                                 <li>
